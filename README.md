@@ -2,7 +2,9 @@
 
 
 ToDo:
-✔️ Training Example
-✔️ Evaluation Example
-✔️ Conceptual Experiments
-▶️ Finish Readme...
+
+
+- ✔️ Training Example
+- ✔️ Evaluation Example
+- ✔️ Conceptual Experiments
+- ▶️ Finish Readme...
